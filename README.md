@@ -2,10 +2,9 @@
 
 ## Student Information
 
-**Name:** _____________________
-**USN:** _____________________
-**Course:** Machine Learning using Azure
-**Subject:** Azure Machine Learning Assignments
+**Name:** J HITHAISH GOWDA
+**USN:** 1JB24AI020
+**Course:** Azure AI
 
 ---
 
